@@ -58,5 +58,3 @@ gradle run
 
 ---
 
-📌 **Este README sigue la misma estructura del ejercicio de Singleton que me pasaste.** 
-
